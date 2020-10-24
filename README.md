@@ -1,3 +1,5 @@
-# KiCad Project Template
+# Generic Saleae 24Mhz 8Ch Logical Analyzer Adaptor
 
-This is an project template for KiCad
+Generic Locical Analyzer adaptor for wireup soldering
+
+![3D View](/assets/saleae_adaptor.jpg )
